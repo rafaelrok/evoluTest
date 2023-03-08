@@ -1,6 +1,7 @@
 /**
  * @author rafae
  */
+
 public class TicoTeco {
     public static void main(String[] args) {
         TicoTeco ticoTeco = new TicoTeco();
